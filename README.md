@@ -1,1 +1,1 @@
-# u4_django_api_solution
+Solution for our TunR Django Project with Serializers and Rest API Format
